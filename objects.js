@@ -228,8 +228,8 @@ var json = [
 "Tipo": "PRR",
 "TAG": "50.007",
 "Equipamento": "30007474",
-"Status": "2",
-"Color": "yellow"
+"Status": "3",
+"Color": "green"
 }, 
 {
 "Index": "sinal30",
@@ -252,8 +252,8 @@ var json = [
 "Tipo": "PRR",
 "TAG": "50.010",
 "Equipamento": "30007477",
-"Status": "2",
-"Color": "yellow"
+"Status": "3",
+"Color": "green"
 }, 
 {
 "Index": "sinal33",
